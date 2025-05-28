@@ -19,7 +19,7 @@ Contenido
 
 Instalación y arranque
 1. Clona el repositorio:
-   git clone <url-del-repo>
+   git clone [<url-del-repo>](https://github.com/Bryandrm/fullstack-project.git)
    cd proyecto-fullstack
 
 2. Instala dependencias en la raíz y levanta ambos servicios:
